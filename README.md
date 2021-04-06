@@ -1,6 +1,7 @@
 # Kishen-s_System_Monitor 
-Instructions
-Clone the project repository: git clone https://github.com/udacity/CppND-System-Monitor-Project-Updated.git
+**Instructions**
+
+Clone the project repository
 
 Build the project: make build
 
